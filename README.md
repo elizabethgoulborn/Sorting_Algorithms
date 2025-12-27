@@ -1,2 +1,2 @@
-# bubblesort
-Bubble sorts a list of n integers from 1-100
+# Sorting Algorithms
+Sorting algorithms implemented in Python from A-Level FM Decision 1
